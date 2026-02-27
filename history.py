@@ -7,7 +7,7 @@ def tampilkan_menu():
     print("1. Buka Website")
     print("2. Lihat History")
     print("3. Hapus History")
-    print("4. Out")
+    print("4. Keluar")
     print("========================")
 
 def buka_website():
